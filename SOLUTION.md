@@ -42,8 +42,8 @@
 # View full commit details
 git log --all --format=fuller
 
-# Search commit messages
-git log --all --grep="FLAG"
+# Search commit messages (case-insensitive)
+git log --all --grep="FLAG" -i
 
 # View specific commit
 git show <commit-sha>

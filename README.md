@@ -30,4 +30,4 @@ See [CHALLENGE.md](CHALLENGE.md) for full details.
 - Basic command-line skills
 - A text editor
 
-Good luck and happy hacking! 🚩
+Good luck and happy hacking!
